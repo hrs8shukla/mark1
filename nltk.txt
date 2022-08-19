@@ -1,0 +1,4 @@
+popular
+wordnet
+punkt
+omw-1.4
